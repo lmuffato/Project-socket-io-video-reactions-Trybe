@@ -1,9 +1,9 @@
-import ReactsTray from "./containers/ReactsTray";
+import Home from './pages/Home';
 
 export default function App() {
   return (
    <>
-    <ReactsTray />
+    <Home/>
    </>
   );
 }
